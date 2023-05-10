@@ -1,10 +1,4 @@
-# Average global annual temperatures from 1880 to 2017
-# First column is year and second column is average global
-# temperature in degrees celsius
-# Data (temp. anomalies) collected from
-# https://data.giss.nasa.gov/gistemp/
-# Anomalies adjusted with
-# https://earthobservatory.nasa.gov/Features/WorldOfChange/decadaltemp.php
+Year Temp
 1880 13.5725
 1881 13.5991666666667
 1882 13.685
