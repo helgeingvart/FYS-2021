@@ -1,12 +1,4 @@
-# 
-#   Average Norwegian monthly salary for 2015, 2016 and 2017
-#   for approx 78 different industries, labeled by
-#   highest achieved education:
-#     0: Elementary and junior high school (Grunnskole)
-#     1: High school (Videregaaende)
-#     2: phD
-#   Data from https://www.ssb.no/statbank/table/11420
-# 
+Type Salary
 0 38230.0000
 0 37890.0000
 0 50803.3333
