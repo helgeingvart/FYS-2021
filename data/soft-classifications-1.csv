@@ -1,3 +1,11 @@
+#
+#    This file contains 200 classifications.
+#    The first column is the true label of the classified data point
+#    And the second column is the classified probability of
+#    that data point belonging to the positive class.
+#    There are 100 samples from the true positive class (label 1) and
+#    100 from the true negative class (label 0).
+#    
 1 0.98274
 1 0.99280
 1 0.99540
