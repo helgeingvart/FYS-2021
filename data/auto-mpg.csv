@@ -1,6 +1,4 @@
-# Fuel Consumption dataset.
-# https://archive.ics.uci.edu/ml/datasets/auto+mpg
-# mpg (response) cylinders displacement horsepower weight acceleration model
+mpg cylinders displacement horsepower weight acceleration model
 18.000 8.000 307.000 130.000 3504.000 12.000 70.000
 15.000 8.000 350.000 165.000 3693.000 11.500 70.000
 18.000 8.000 318.000 150.000 3436.000 11.000 70.000
